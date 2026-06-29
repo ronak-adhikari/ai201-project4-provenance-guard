@@ -29,4 +29,6 @@ for t in tests:
     print(f"--- {t['label']} ---")
     print(f"  Attribution:  {data['attribution']}")
     print(f"  Confidence:   {data['confidence']}")
+    print(f"  Label:        {data['label']}")
+    print(f"  Content ID:   {data['content_id']}")
     print()
