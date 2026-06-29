@@ -396,3 +396,7 @@ python3 app.py
 ```json
 { "content_id": "string", "creator_reasoning": "string" }
 ```
+
+## DEMO VIDEO
+
+Link to demo video: https://drive.google.com/file/d/1UH3URM34RMrOhqiRohIiCbAFMIj08V_D/view?usp=sharing 
