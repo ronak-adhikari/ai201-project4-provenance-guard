@@ -350,6 +350,15 @@ function computed TTR correctly but did not invert it — a high TTR (diverse vo
 human) was returning a high score (AI-like), which was backwards from the spec. Corrected the 
 inversion logic so high TTR produces a low AI-likelihood score.
 
+**Instance 3 — Formatting and writing for planning.md and README.md**
+
+Used AI assistance to help structure and format the planning.md and README.md documents. 
+Provided the raw design decisions and technical details we had worked out (signal choices, 
+confidence thresholds, label variants, appeals workflow) and asked for help organizing them 
+into clearly written, well-structured markdown documents. Reviewed the output and revised 
+the label variant wording to better reflect the false-positive concern, and added the fourth 
+label variant (uncertain leaning human/AI split) which was not in the initial output.
+
 ---
 
 ## Setup
